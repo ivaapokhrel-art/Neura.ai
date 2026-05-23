@@ -1,0 +1,6 @@
+{
+  "name": "Anima Character AI",
+  "description": "An interactive full-stack Character AI platform with bot creation, high-quality persona customization, memory ledgers, and text-to-speech voice synthesis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
